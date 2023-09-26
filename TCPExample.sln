@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34031.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPExample", "TCPExample\TCPExample.csproj", "{5ACBB95E-DC55-4C61-A052-24274A348FAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ACBB95E-DC55-4C61-A052-24274A348FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACBB95E-DC55-4C61-A052-24274A348FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACBB95E-DC55-4C61-A052-24274A348FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACBB95E-DC55-4C61-A052-24274A348FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CBAA5C-636A-48AB-B959-5571225CD3C2}
+	EndGlobalSection
+EndGlobal
